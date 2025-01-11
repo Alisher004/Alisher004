@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,scss,tailwind,git,npm,linux" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,html,css,scss,git" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a6uxa4&label=Profile%20views&color=0e75b6&style=flat" alt="a6uxa4" /> </p>
