@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alisher (@Alisher004)
+# 👋 Hi, I'm Alisher
 
 ### 🚀 Frontend Developer | Frontend Mentor
 
