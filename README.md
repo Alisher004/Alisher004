@@ -1,90 +1,70 @@
-# 👋 Hi, I'm Alisher
+<div align="center">
 
-### 🚀 Frontend Developer | Frontend Mentor
+# Hi, I'm Alisher 👋
 
-I build modern, responsive, and user-friendly web applications. I also teach Frontend Development and help beginners start their journey in web development.
+### Frontend Developer · Mentor
 
-* 💻 Focused on Frontend Development
-* ⚛️ Building applications with React, Next.js, and TypeScript
-* 🔥 Working with Firebase and Supabase
-* 🎓 Frontend Development Mentor
-* 🌱 Continuously learning and improving my skills
-* 🤝 Open to collaboration and interesting projects
+I build thoughtful, responsive web experiences and help people get started with frontend development. My work spans React, Next.js, and TypeScript, with a focus on practical projects and clear user interfaces.
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-Alisher004-181717?style=for-the-badge&logo=github)](https://github.com/Alisher004)
 
-## 🛠️ Tech Stack & Skills
-
-### 🎨 Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,js,ts,react,nextjs,vue,redux" alt="Frontend Technologies" />
-</p>
-
-* **HTML:** HTML5, Semantic HTML, Accessibility Basics
-* **CSS:** CSS3, Flexbox, CSS Grid, Responsive Design
-* **Styling:** SCSS/Sass, Bootstrap
-* **JavaScript:** ES6+, DOM Manipulation, Events, Modules, Async/Await, Promises
-* **TypeScript:** Static Typing, Interfaces, Types
-* **React:** Components, Props, State, Hooks, Context API
-* **State Management:** Redux
-* **Frameworks:** Next.js, Vue.js
-
-### ⚙️ Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,firebase,supabase,python" alt="Backend and Database Technologies" />
-</p>
-
-* **Node.js:** JavaScript Runtime, Backend Fundamentals
-* **Firebase:** Authentication, Firestore, Realtime Data
-* **Supabase:** PostgreSQL, Authentication, Database Integration
-* **Python:** Programming Fundamentals
-
-### 🔗 APIs & Web Technologies
-
-* REST API Integration
-* HTTP Requests
-* JSON Data Handling
-* Asynchronous JavaScript
-* Web Application Development
-
-### 🧰 Tools & Deployment
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,npm" alt="Development Tools" />
-</p>
-
-* **Version Control:** Git, GitHub
-* **Deployment:** Vercel
-* **Package Management:** npm
-* **Development Environment:** VS Code
+</div>
 
 ---
 
-## 🎓 Teaching & Mentoring
+## What I do
 
-* Teaching Frontend Development to aspiring developers
-* Explaining programming concepts through practical examples
-* Helping students build their first web applications
-* Preparing learning materials and coding exercises
+- Develop frontend applications with React, Next.js, and TypeScript
+- Build responsive interfaces with HTML, CSS, and Sass/SCSS
+- Work with state management, REST APIs, and asynchronous JavaScript
+- Integrate Firebase and Supabase services in web projects
+- Mentor aspiring developers through practical exercises and project work
+
+## Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,nextjs,vue,redux,bootstrap" alt="HTML, CSS, Sass, JavaScript, TypeScript, React, Next.js, Vue, Redux, and Bootstrap" />
+</p>
+
+| Focus | Tools and concepts |
+| --- | --- |
+| Frontend | HTML, CSS, responsive design, Flexbox, CSS Grid |
+| JavaScript | ES modules, DOM, events, Promises, async/await |
+| UI development | React, hooks, Context API, Next.js, Vue.js |
+| Styling | Sass/SCSS, Bootstrap |
+| State and data | Redux, REST APIs, JSON, Axios |
+| Services | Firebase, Supabase, PostgreSQL fundamentals |
+| Workflow | Git, GitHub, npm, VS Code, Vercel |
+
+## Selected projects
+
+| Project | Overview | Stack |
+| --- | --- | --- |
+| [Test Okurmen](https://github.com/Alisher004/okurmen-test) | Online entrance testing with student and administrator workflows | Next.js, TypeScript, Prisma, PostgreSQL |
+| [Lovio](https://github.com/Alisher004/Lovio) | A focused, animated interactive invitation experience | Next.js, TypeScript, Firebase |
+| [TOUR](https://github.com/Alisher004/TOUR) | Tour discovery and booking interface | React, Vite |
+| [CROSE-STORE](https://github.com/Alisher004/CROSE-STORE) | E-commerce storefront with catalog, cart, and admin views | React, Redux Toolkit, Firebase |
+
+## Mentoring
+
+I enjoy making frontend concepts approachable through hands-on examples. I help learners understand core web technologies, build their first interfaces, and grow confidence by completing practical projects.
+
+## GitHub activity
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Alisher004&show_icons=true&hide_border=true&theme=tokyonight" alt="Alisher's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alisher004&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
+</p>
+
+## Connect
+
+- GitHub: [@Alisher004](https://github.com/Alisher004)
+- Open to collaboration on interesting frontend projects
 
 ---
 
-## 📊 GitHub Statistics
+<div align="center">
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Alisher004&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+Thanks for visiting my profile ✨
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alisher004&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-* GitHub: [@Alisher004](https://github.com/Alisher004)
-
-⭐ Thanks for visiting my profile!
+</div>
