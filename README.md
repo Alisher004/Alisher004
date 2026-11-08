@@ -40,6 +40,8 @@ I build thoughtful, responsive web experiences and help people get started with 
 
 | Project | Overview | Stack |
 | --- | --- | --- |
+| [Adbook](https://github.com/Alisher004/Adbook) · **Private** | Next.js application for working with digital books and PDF content | Next.js, React, TypeScript, PDF.js |
+| [Codebilim](https://github.com/Alisher004/codebilim) · **Private** | Three-month frontend course platform with student, teacher, and admin areas | React, Vite, Firebase |
 | [Test Okurmen](https://github.com/Alisher004/okurmen-test) | Online entrance testing with student and administrator workflows | Next.js, TypeScript, Prisma, PostgreSQL |
 | [Lovio](https://github.com/Alisher004/Lovio) | A focused, animated interactive invitation experience | Next.js, TypeScript, Firebase |
 | [TOUR](https://github.com/Alisher004/TOUR) | Tour discovery and booking interface | React, Vite |
