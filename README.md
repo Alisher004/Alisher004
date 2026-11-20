@@ -1,14 +1,4 @@
-<div align="center">
-
-# Hi, I'm Alisher 👋
-
-### Frontend Developer · Mentor
-
-I build thoughtful, responsive web experiences and help people get started with frontend development. My work spans React, Next.js, and TypeScript, with a focus on practical projects and clear user interfaces.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Alisher004-181717?style=for-the-badge&logo=github)](https://github.com/Alisher004)
-
-</div>
+<h1 align="center">Hi, I'm Alisher 👋</h1> <p align="center"><b>Frontend Developer · React / Next.js / TypeScript · Team Lead · Mentor</b><br>Bishkek, Kyrgyzstan</p> <p align="center"> <a href="https://alisher-dev-seven.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a> <a href="https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B8%D1%88%D0%B5%D1%80-%D0%BC%D0%B0%D0%BD%D0%B0%D1%81%D0%BE%D0%B2-79665032a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://t.me/manasovi4"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a> <a href="mailto:alisermanasov00@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> </p>
 
 ---
 
