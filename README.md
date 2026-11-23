@@ -1,13 +1,3 @@
-# 👋 Hey, I'm Alisher
-
-### Frontend Engineer · React · Next.js · TypeScript
-
-**Building digital products. Leading teams. Sharing knowledge.**
-
-Based in Bishkek, Kyrgyzstan 🇰🇬
-
-![Header](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:09090b,45:312e81,100:2563eb&text=ALISHER&fontColor=ffffff&fontSize=65&fontAlignY=38&desc=FRONTEND%20ENGINEER%20%7C%20PRODUCT%20BUILDER&descAlignY=58&descSize=15&animation=twinkling)
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=60A5FA&center=true&vCenter=true&width=600&lines=Building+digital+products+%F0%9F%9A%80;Crafting+experiences+with+React+%E2%9A%9B%EF%B8%8F;Turning+ideas+into+reality+%E2%9C%A8;Leading+teams+%26+sharing+knowledge+%F0%9F%A4%9D" alt="Typing SVG" />
 </p>
